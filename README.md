@@ -4,12 +4,6 @@ Engineering Take-Home Coding Assignment (Fullstack)
 
 ---
 
-## Status
-
-**Completed**
-
----
-
 ## Summary
 
 Repositori ini merupakan submission untuk _take-home assignment_ Engineering Sociomile versi mini, berfokus pada sistem Ticket Management, Conversation (Chat), Multi-Tenancy, dan Authentication & Authorization.
@@ -61,6 +55,7 @@ Bangun mini Sociomile System yang memiliki:
 ### Frontend (React + Vite)
 
 ```bash
+clone reposiroty <https://github.com/RiskyAdit06/sociomile-fe>
 cd frontend
 npm install
 npm run dev
